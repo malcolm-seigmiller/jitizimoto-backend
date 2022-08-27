@@ -1,7 +1,4 @@
 <?php
-#I am going to remake the hooker booker app
-//this time im going to make a website/api framework and build from there
-//php is a fine lang but I will also be using javascript
 //the app will allow a user to book, pay, review, ask questions on the website and book and pay with a simple U.I. plugin on onwers website
 //it will allow the business to maintain customer relations, advertise, make offers, host websites with inbuilt support made from templates,
 //automate questions or allow the bizowner or representivive to directly respond to user, advertise product lines.
